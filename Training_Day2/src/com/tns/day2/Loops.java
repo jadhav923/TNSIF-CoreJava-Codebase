@@ -38,7 +38,6 @@ public class Loops {
 		
 		// Nested loop 
 		
-		int a=10; int b=20; int c=50;
 		
 		 
 		
